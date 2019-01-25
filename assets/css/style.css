@@ -1,5 +1,7 @@
 body {
-	background-image: url(https://hdqwalls.com/download/marvel-studios-new-logo-ad-1080x1920.jpg);
+	background: black;
+	background-image: url(https://images4.alphacoders.com/283/thumb-1920-283338.jpg);
+	
 	height: 100%;
     width: 100%;
     background-position: center;
@@ -32,19 +34,18 @@ button:hover {
 
 h1, h2, h3, .question {
 	text-align: center;
-	color: white;
-	background-color: black;
+	color: rgb(0, 0, 0);
+	background: rgba(204, 204, 204, 0.5);
 }
 p {
 	text-align: center;
-	color: white;
-	background-color: black;
-}
+	color: rgb(0, 0, 0);
+	background: rgba(204, 204, 204, 0.5);
 
 .quiz {
 text-align: center;
 z-index: 2;
-background-color: black;
 padding-bottom: 50px;
+background: rgba(204, 204, 204, 0.5);
 
 }
